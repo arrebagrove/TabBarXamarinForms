@@ -1,6 +1,6 @@
 # TabBarXamarinForms
 TabBar in XamarinForms with Icon and Text
-![Android](https://raw.githubusercontent.com/dharmik/TabBarXamarinForms/master/ScreenShot/droid.png)
+![Android](https://raw.githubusercontent.com/dharmik/TabBarXamarinForms/master/ScreenShot/Droid.png)
 
 
 ![iOS](https://raw.githubusercontent.com/dharmik/TabBarXamarinForms/master/ScreenShot/iOS.png)
