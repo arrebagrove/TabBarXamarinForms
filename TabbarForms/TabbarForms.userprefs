@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3E82C88A-ACC7-4091-8838-5B9C36C32FEC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="21" Column="4" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="20" Column="31" />
+      <File FileName="iOS/AppDelegate.cs" Line="19" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TabbarForms" expanded="True" selected="True">
+            <Node name="TabbarForms.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Dharmik/TabBarXamarinForms/TabbarForms/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="20" column="1" />
+      <Breakpoint file="/Users/Dharmik/TabBarXamarinForms/TabbarForms/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TabbarForms.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.32CB62A1-8C11-4BFC-8D94-788619CCD893" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TabbarForms.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.192.168.64.101:5555" />
+</Properties>

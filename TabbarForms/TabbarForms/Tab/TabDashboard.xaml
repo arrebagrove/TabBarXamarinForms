@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+	xmlns:local="clr-namespace:TabbarForms;assembly=TabbarForms" x:Class="TabbarForms.TabDashboard">
+	<NavigationPage Title="Home" Icon="home.png">
+		<x:Arguments>
+			<local:Tab1 />
+		</x:Arguments>
+	</NavigationPage>
+	<NavigationPage Title="Home1" Icon="home.png">
+		<x:Arguments>
+			<local:Tab2 />
+		</x:Arguments>
+	</NavigationPage>
+	<NavigationPage Title="Home2" Icon="home.png">
+		<x:Arguments>
+			<local:Tab3 />
+		</x:Arguments>
+	</NavigationPage>
+	<NavigationPage Title="Home3" Icon="home.png">
+		<x:Arguments>
+			<local:Tab4 />
+		</x:Arguments>
+	</NavigationPage>
+	<NavigationPage Title="Home4" Icon="home.png">
+		<x:Arguments>
+			<local:Tab5 />
+		</x:Arguments>
+	</NavigationPage>
+</TabbedPage>
